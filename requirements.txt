@@ -1,0 +1,4 @@
+RPi.GPIO; platform_system=="Linux"
+adafruit-circuitpython-dht; platform_system=="Linux"
+opencv-python
+
